@@ -33,7 +33,8 @@ Além disso, existem outras três tabelas secundárias: _"svvisitantes"_, a qual
 
 * [Visual Studio Code](https://code.visualstudio.com/) - IDE utilizada para escrita dos códigos em PHP.
 * [phpMyAdmin](https://www.phpmyadmin.net/) - BD utilizado para armazenamento dos registros.
+* [FPDF](http://www.fpdf.org/) - Classe para gerar arquivos PDF.
 
 ## 🎁 Menção Honrosa
 
-Agradeço profundamente ao efetivo do 2°/1° GCC pelo incentivo, pelo apoio criativo, e pela confiança na implementação do sistema.
+Agradeço profundamente ao efetivo do 2°/1° GCC pelo incentivo, pelo apoio criativo, e pela confiança na implementação do sistema. A fim de evidenciar o processo de desenvolvimento, todos os registros textuais e fotográficos foram publicados na página oficial do órgão na Intranet.
