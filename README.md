@@ -1,4 +1,4 @@
-# ARACHNE: Sistema de portaria digital
+# ARACHNE: Sistema de Portaria Digital
 
 ![Tela real capturada em 16/10/2023.](https://i.imgur.com/HJOf553.png)
 
