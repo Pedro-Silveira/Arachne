@@ -33,6 +33,7 @@ Além disso, existem outras três tabelas secundárias: _"svvisitantes"_, a qual
 
 * [Visual Studio Code](https://code.visualstudio.com/) - IDE utilizada para escrita dos códigos em PHP.
 * [phpMyAdmin](https://www.phpmyadmin.net/) - BD utilizado para armazenamento dos registros.
+* [Bootstrap](https://getbootstrap.com/) - Framework utilizado para estilização.
 * [FPDF](http://www.fpdf.org/) - Classe para gerar arquivos PDF.
 
 ## 🎁 Menção Honrosa
